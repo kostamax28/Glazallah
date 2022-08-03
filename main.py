@@ -24,7 +24,7 @@ import keepalive
 
 ID = os.environ['id']
 
-bot = telebot.TeleBot(os.environ['5446519593:AAHWfTBE-YJeKbJFT6l9WXROPxp87vR9mWk'])
+bot = telebot.TeleBot(os.environ['5389202921:AAG3u6q5gkmvacDKH31vNnkOaUXgrVaaeG4'])
 
 adr = ['Тверская улица, дом 13', 'Проспект 60-летия Октября', 'Улица Винокурова', '3-й Голутвинский переулок']
 
